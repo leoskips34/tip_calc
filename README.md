@@ -34,11 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was interesting seeing the changes as I had taken an iOS development course a number of years ago. It seems to have gotten a bit easier, but the new features seem exiting to learn about. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Leo Samuelson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
